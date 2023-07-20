@@ -1,0 +1,39 @@
+body{
+    background-color: #123358; color: #f8b8be; font-family: 'Bacasime Antique', serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+h3{
+    color: #ffa6ff;
+}
+
+h1,p{
+    color: #c37ed7;
+}
+
+.img1{
+    width:280px;
+    height: 180px;
+    border-style: dashed;
+    padding: 8px;
+}
+
+.img2{
+    width:280px;
+    height: 180px;
+    border-style: dashed;
+    padding: 8px;
+}
+
+.img3{
+    width:280px;
+    height: 180px;
+    border-style: dashed;
+    padding: 8px;
+}
+
+small{
+    color: #20dbd8;
+}
